@@ -7,8 +7,8 @@
 **Senior Full Stack Developer @ MAIDC**  
 *Turning code into crops — building the digital future of agriculture with MahaaGromart.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/himanshu-vishwakarma)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat-square)](mailto:himanshu.vishwakarma@maidc.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/himanshu-vishwakarma-856773239/?originalSubdomain=in)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat-square)](mailto:himanshuvishwakarma383@gmail.com)
 
 </div>
 
