@@ -2,33 +2,34 @@
 
 <div align="center">
 
-# नमस्ते, मैं हिमांशु विश्वकर्मा हूँ 👋🌾
+# Hi, I'm Himanshu Vishwakarma 👋🌾
 
-**सीनियर फुल स्टैक डेवलपर @ MAIDC**  
-*महाॲग्रोमार्ट के साथ कृषि को डिजिटल बनाना — कोड से फसल तक!*
+**Senior Full Stack Developer @ MAIDC**  
+*Turning code into crops — building the digital future of agriculture with MahaaGromart.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-कनेक्ट करें-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/himanshu-vishwakarma)
-[![Email](https://img.shields.io/badge/Email-मेल करें-red?logo=gmail&style=flat-square)](mailto:himanshu.vishwakarma@maidc.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/himanshu-vishwakarma)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat-square)](mailto:himanshu.vishwakarma@maidc.in)
 
 </div>
 
 ---
 
-### 🌱 अभी क्या कर रहा हूँ
-> **महाॲग्रोमार्ट** — किसान से सीधे खरीदार तक, रियल-टाइम सप्लाई चेन
+### 🌱 Currently Growing
+> **MahaaGromart** — Real-time farmer-to-buyer supply chain platform
 
-- **Frontend**: Next.js (SSR, App Router)
-- **Backend**: .NET Core 8 (API, Microservices)
-- **Cache**: Redis (Pub/Sub, Distributed)
-- **CI/CD**: Jenkins (Zero-downtime deploy)
-- **DB**: PostgreSQL + SQL Server
+- **Frontend**: Next.js (SSR, App Router, SEO)
+- **Backend**: .NET Core 8 (REST APIs, Microservices)
+- **Caching**: Redis (Pub/Sub, Distributed Cache)
+- **CI/CD**: Jenkins (Zero-downtime deployments)
+- **Database**: PostgreSQL + SQL Server
+- **Cloud**: AWS (EC2, S3, CloudWatch)
 
 ---
 
-### 🚀 मेरा टेक स्टैक
+### 🚀 Tech Stack I Love
 
 ```text
-Frontend     ● Next.js ● React ● TypeScript ● Tailwind
-Backend      ● .NET Core ● C# ● EF Core
+Frontend     ● Next.js ● React ● TypeScript ● Tailwind CSS
+Backend      ● .NET Core ● C# ● Entity Framework Core
 DevOps       ● Jenkins ● Docker ● GitHub Actions
-Tools        ● Redis ● Postman ● VS Code
+Tools        ● Redis ● PostgreSQL ● Postman ● VS Code
